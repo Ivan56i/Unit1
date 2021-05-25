@@ -13,3 +13,5 @@
                 sum += an;
             }
         }
+      System.out.println("Сумма равна " + sum);
+  }
