@@ -1,7 +1,6 @@
 public class MyClass {
      public static void main(String[] args) {
-   System.out.println("26. Вывести на экран соответствий между символами и их численными обозначениями в " +
-                "памяти компьютера (Таблицу ASCII).");
+   System.out.println("Даны два числа. Определить цифры входящие как первого так второго.");
        
         int a = 323;
         int b = 542;
