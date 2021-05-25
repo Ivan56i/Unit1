@@ -1,4 +1,5 @@
   public static void main(String args[]) {
+  System.out.println("Найти max{min(a, b), min(c, d)}. ");
          double  a = 7;
          double  b = 2;
          double  c = 9;
