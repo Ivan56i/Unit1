@@ -1,4 +1,5 @@
 public static void main(String[] args) {
+System.out.println("Вычислить значение выражения по формуле (все переменные принимают действительные значения):");
         double a = 2;
         double b = 3.5;
         double c = 4;
